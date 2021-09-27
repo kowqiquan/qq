@@ -24,6 +24,7 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[CCA](#cca) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,17 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+<!-- CCA Section Starts -->
+### CCA
+<!-- Add your details -->
+##### BOSTON CONSULTING GROUP
+SENIOR ANALYST<br>
+June-2019 to Present: 1 year 10 Months
+
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: BCG GAMMA
+
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+
+<!-- CCA Section Ends -->
